@@ -1,0 +1,4 @@
+git add .
+git commit -m "Secret Project"
+git remote add origin https://github.com/JustAHackers/secret_project.git
+git push -u origin master
